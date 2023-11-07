@@ -12,20 +12,20 @@ Para utilizar el programa y realizar consultas sobre las relaciones familiares, 
 
 3. Puedes realizar consultas escribiendo la función deseada y proporcionando los argumentos adecuados, estas son las funciones:
 
-   a. `es_padre(X, Y)`: Busca si X es el padre de Y.
-   b. `es_madre(X, Y)`: Busca si X es la madre de Y.
-   c. `es_esposo(X, Y)`: Busca si X es el esposo de Y.
-   d. `es_esposa(X, Y)`: Busca si X es la esposa de Y.
-   e. `es_hijo(Y, X)`: Busca si Y es el hijo de X.
-   f. `es_hija(Y, X)`: Busca si Y es la hija de X.
-   g. `es_hermano(X, Y)`: Busca si X es el hermano de Y.
-   h. `es_hermana(X, Y)`: Busca si X es la hermana de Y.
-   i. `es_tio(X, Y)`: Busca si X es el tío de Y.
-   j. `es_tia(X, Y)`: Busca si X es la tía de Y.
-   k. `es_abuelo(X, Y)`: Busca si X es el abuelo de Y.
-   l. `es_abuela(X, Y)`: Busca si X es la abuela de Y.
-   m. `es_nieto(X, Y)`: Busca si X es el nieto de Y.
-   n. `es_nieta(X, Y)`: Busca si X es la nieta de Y.
+   1. `es_padre(X, Y)`: Busca si X es el padre de Y.
+   2. `es_madre(X, Y)`: Busca si X es la madre de Y.
+   3. `es_esposo(X, Y)`: Busca si X es el esposo de Y.
+   4. `es_esposa(X, Y)`: Busca si X es la esposa de Y.
+   5. `es_hijo(Y, X)`: Busca si Y es el hijo de X.
+   6. `es_hija(Y, X)`: Busca si Y es la hija de X.
+   7. `es_hermano(X, Y)`: Busca si X es el hermano de Y.
+   8. `es_hermana(X, Y)`: Busca si X es la hermana de Y.
+   9. `es_tio(X, Y)`: Busca si X es el tío de Y.
+   10. `es_tia(X, Y)`: Busca si X es la tía de Y.
+   11. `es_abuelo(X, Y)`: Busca si X es el abuelo de Y.
+   12. `es_abuela(X, Y)`: Busca si X es la abuela de Y.
+   13. `es_nieto(X, Y)`: Busca si X es el nieto de Y.
+   14. `es_nieta(X, Y)`: Busca si X es la nieta de Y.
 
 4. El programa responderá con los resultados correspondientes.
 

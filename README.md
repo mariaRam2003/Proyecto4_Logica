@@ -10,35 +10,22 @@ Para utilizar el programa y realizar consultas sobre las relaciones familiares, 
 
 2. Abre el archivo con el código Prolog en tu intérprete.
 
-3. Puedes realizar consultas escribiendo la función deseada y proporcionando los argumentos adecuados.
+3. Puedes realizar consultas escribiendo la función deseada y proporcionando los argumentos adecuados, estas son las funciones:
 
-   - 'es_padre(X, Y):' Busca si X es el padre de Y.
-
-   - es_madre(X, Y): Busca si X es la madre de Y.
-
-   - es_esposo(X, Y): Busca si X es el esposo de Y.
-   
-   - es_esposa(X, Y): Busca si X es la esposa de Y.
-   
-   - es_hijo(Y, X): Busca si Y es el hijo de X.
-   
-   - es_hija(Y, X): Busca si Y es la hija de X.
-   
-   - es_hermano(X, Y): Busca si X es el hermano de Y.
-   
-   - es_hermana(X, Y): Busca si X es la hermana de Y.
-   
-   - es_tio(X, Y): Busca si X es el tío de Y.
-   
-   - es_tia(X, Y): Busca si X es la tía de Y.
-   
-   - es_abuelo(X, Y): Busca si X es el abuelo de Y.
-   
-   - es_abuela(X, Y): Busca si X es la abuela de Y.
-   
-   - es_nieto(X, Y): Busca si X es el nieto de Y.
-   
-   - es_nieta(X, Y): Busca si X es la nieta de Y.
+   a. `es_padre(X, Y)`: Busca si X es el padre de Y.
+   b. `es_madre(X, Y)`: Busca si X es la madre de Y.
+   c. `es_esposo(X, Y)`: Busca si X es el esposo de Y.
+   d. `es_esposa(X, Y)`: Busca si X es la esposa de Y.
+   e. `es_hijo(Y, X)`: Busca si Y es el hijo de X.
+   f. `es_hija(Y, X)`: Busca si Y es la hija de X.
+   g. `es_hermano(X, Y)`: Busca si X es el hermano de Y.
+   h. `es_hermana(X, Y)`: Busca si X es la hermana de Y.
+   i. `es_tio(X, Y)`: Busca si X es el tío de Y.
+   j. `es_tia(X, Y)`: Busca si X es la tía de Y.
+   k. `es_abuelo(X, Y)`: Busca si X es el abuelo de Y.
+   l. `es_abuela(X, Y)`: Busca si X es la abuela de Y.
+   m. `es_nieto(X, Y)`: Busca si X es el nieto de Y.
+   n. `es_nieta(X, Y)`: Busca si X es la nieta de Y.
 
 4. El programa responderá con los resultados correspondientes.
 
